@@ -1,3 +1,3 @@
 # SnakeGameConsole
-Just a simple snake game 
-Yes.
+Just a simple snake game,
+yes.
